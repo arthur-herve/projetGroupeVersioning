@@ -5,3 +5,5 @@ Projet du cours de versioning, Luigi Aubry-Pouget, Quentin Morel, Arthur Hervé,
 - Modifié (modified) en modifiant simplement un fichier
 - indexé (staged) avec "git add"
 - Validé (commited) avec "git commit"
+
+# Attention ceci est un test
